@@ -1,3 +1,3 @@
 <template>
-	<div>MY CHAT APP</div>
+	<div>Update my code</div>
 </template>
