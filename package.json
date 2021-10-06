@@ -11,8 +11,10 @@
     "lint": "npm run lint:js"
   },
   "dependencies": {
+    "axios": "^0.22.0",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "pusher-js": "^7.0.3"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
